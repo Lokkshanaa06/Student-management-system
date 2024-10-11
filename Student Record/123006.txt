@@ -1,0 +1,15 @@
+SSLC EXAMINATION RESULTS
+STUDENT DETAILS:
+Student Name:    Fathima
+Register Number: 123006
+Date of Birth:   06-11-2003
+
+Marks Obtained:
+Language 1:      43
+Language 2:      29
+Maths:           89
+Science:         79
+Social Science:  65
+Total:           305
+Percentage:      61.00%
+Final Result:    Fail

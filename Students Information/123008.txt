@@ -1,0 +1,14 @@
+
+Student details
+Student Name:        Iniya
+Student Register no: 123008
+Date of birth:       04-05-2003
+Marks Obtained
+Language 1      :  78
+Language 2      :  65
+Maths           :  49
+Science         :  85
+Social Science  :  77
+Total           :  354
+Percentage      :  70.8
+Final Result    :  Pass

@@ -1,0 +1,14 @@
+SSLC EXAMINATION:
+Student details:
+Student Name:    Fathima
+Register Number: 123005
+Date of Birth:   06-08-2003
+Gender:          Female
+Language 1:      45
+Language 2:      42
+Maths:           20
+Science:         39
+Social Science:  56
+Total:           202
+Percentage:      40.4
+Final Result:    Fail

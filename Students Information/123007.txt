@@ -1,0 +1,14 @@
+
+Student details
+Student Name:        Harsha
+Student Register no: 123007
+Date of birth:       16-04-2003
+Marks Obtained
+Language 1      :  76
+Language 2      :  65
+Maths           :  43
+Science         :  39
+Social Science  :  81
+Total           :  304
+Percentage      :  60.8
+Final Result    :  Pass

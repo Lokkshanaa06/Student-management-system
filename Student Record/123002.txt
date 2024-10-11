@@ -1,0 +1,15 @@
+SSLC EXAMINATION RESULTS
+STUDENT DETAILS:
+Student Name:    Bala
+Register Number: 123002
+Date of Birth:   08-06-2003
+
+Marks Obtained:
+Language 1:      65
+Language 2:      43
+Maths:           23
+Science:         78
+Social Science:  55
+Total:           264
+Percentage:      52.80%
+Final Result:    Fail

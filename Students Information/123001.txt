@@ -1,0 +1,14 @@
+
+ Student details
+Student Name:        Bala sundar
+Student Register no: 123001
+Date of birth:       24-08-2003
+Marks Obtained
+Language 1      :  76
+Language 2      :  65
+Maths           :  54
+Science         :  43
+Social Science  :  69
+Total           :  307
+Percentage      :  61.4
+Final Result    :  Pass

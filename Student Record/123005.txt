@@ -1,0 +1,16 @@
+SSLC EXAMINATION RESULTS
+STUDENT DETAILS:
+Student Name:    Elanthalir
+Register Number: 123005
+Date of Birth:   18-12-2003
+Gender:          Female
+
+Marks Obtained:
+Language 1:      45
+Language 2:      67
+Maths:           93
+Science:         70
+Social Science:  95
+Total:           370
+Percentage:      74.00%
+Final Result:    Pass

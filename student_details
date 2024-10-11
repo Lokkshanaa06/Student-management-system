@@ -1,0 +1,98 @@
+2024-07-10 10:13:25,330 - INFO - SSLC EXAMINATION RESULTS
+2024-07-10 10:13:25,330 - INFO - STUDENT DETAILS:
+2024-07-10 10:13:25,330 - INFO - Student Name:Akila Sundar   
+2024-07-10 10:13:25,330 - INFO - Register Number:123001
+2024-07-10 10:13:25,330 - INFO - Date of birth:  08-09-2003
+2024-07-10 10:13:25,330 - INFO - Language 1:  78 
+2024-07-10 10:13:25,330 - INFO - Language 2:    72 
+2024-07-10 10:13:25,330 - INFO - Maths:         93 
+2024-07-10 10:13:25,330 - INFO - Science:       84 
+2024-07-10 10:13:25,330 - INFO - Social Science:87 
+2024-07-10 10:13:25,330 - INFO - Total:         414 
+2024-07-10 10:13:25,331 - INFO - Percentage:    82.8 
+2024-07-10 10:13:25,331 - INFO - Final result:  Pass 
+2024-07-10 10:14:02,674 - INFO - SSLC EXAMINATION RESULTS
+2024-07-10 10:14:02,674 - INFO - STUDENT DETAILS:
+2024-07-10 10:14:02,674 - INFO - Student Name:Balaji   
+2024-07-10 10:14:02,674 - INFO - Register Number:123002
+2024-07-10 10:14:02,674 - INFO - Date of birth:  18-07-2003
+2024-07-10 10:14:02,674 - INFO - Language 1:  76 
+2024-07-10 10:14:02,674 - INFO - Language 2:    95 
+2024-07-10 10:14:02,674 - INFO - Maths:         32 
+2024-07-10 10:14:02,675 - INFO - Science:       89 
+2024-07-10 10:14:02,675 - INFO - Social Science:90 
+2024-07-10 10:14:02,675 - INFO - Total:         382 
+2024-07-10 10:14:02,675 - INFO - Percentage:    76.4 
+2024-07-10 10:14:02,675 - INFO - Final result:  Fail 
+2024-07-10 10:14:55,939 - ERROR - Invalid input
+2024-07-10 10:15:20,139 - INFO - SSLC EXAMINATION RESULTS
+2024-07-10 10:15:20,139 - INFO - STUDENT DETAILS:
+2024-07-10 10:15:20,139 - INFO - Student Name:Catherine   
+2024-07-10 10:15:20,139 - INFO - Register Number:123003
+2024-07-10 10:15:20,139 - INFO - Date of birth:  09-05-2003
+2024-07-10 10:15:20,139 - INFO - Language 1:  56 
+2024-07-10 10:15:20,139 - INFO - Language 2:    78 
+2024-07-10 10:15:20,139 - INFO - Maths:         43 
+2024-07-10 10:15:20,139 - INFO - Science:       32 
+2024-07-10 10:15:20,139 - INFO - Social Science:33 
+2024-07-10 10:15:20,139 - INFO - Total:         242 
+2024-07-10 10:15:20,139 - INFO - Percentage:    48.4 
+2024-07-10 10:15:20,140 - INFO - Final result:  Fail 
+2024-07-10 10:15:41,199 - ERROR - Invalid input
+2024-07-10 10:15:59,502 - INFO - SSLC EXAMINATION RESULTS
+2024-07-10 10:15:59,502 - INFO - STUDENT DETAILS:
+2024-07-10 10:15:59,502 - INFO - Student Name:Dinesh   
+2024-07-10 10:15:59,502 - INFO - Register Number:123004
+2024-07-10 10:15:59,502 - INFO - Date of birth:  03-04-2003
+2024-07-10 10:15:59,502 - INFO - Language 1:  45 
+2024-07-10 10:15:59,502 - INFO - Language 2:    66 
+2024-07-10 10:15:59,502 - INFO - Maths:         89 
+2024-07-10 10:15:59,502 - INFO - Science:       78 
+2024-07-10 10:15:59,502 - INFO - Social Science:67 
+2024-07-10 10:15:59,502 - INFO - Total:         345 
+2024-07-10 10:15:59,502 - INFO - Percentage:    69.0 
+2024-07-10 10:15:59,502 - INFO - Final result:  Pass 
+2024-07-10 10:16:39,169 - INFO - SSLC EXAMINATION RESULTS
+2024-07-10 10:16:39,169 - INFO - STUDENT DETAILS:
+2024-07-10 10:16:39,169 - INFO - Student Name:Elanthalir   
+2024-07-10 10:16:39,169 - INFO - Register Number:123005
+2024-07-10 10:16:39,169 - INFO - Date of birth:  01-06-2003
+2024-07-10 10:16:39,169 - INFO - Language 1:  23 
+2024-07-10 10:16:39,169 - INFO - Language 2:    78 
+2024-07-10 10:16:39,169 - INFO - Maths:         83 
+2024-07-10 10:16:39,169 - INFO - Science:       95 
+2024-07-10 10:16:39,170 - INFO - Social Science:83 
+2024-07-10 10:16:39,170 - INFO - Total:         362 
+2024-07-10 10:16:39,170 - INFO - Percentage:    72.39999999999999 
+2024-07-10 10:16:39,170 - INFO - Final result:  Fail 
+2024-07-31 11:19:34,490 - ERROR - Invalid input
+2024-07-31 11:19:37,806 - ERROR - Invalid input
+2024-07-31 11:19:56,333 - ERROR - Invalid input
+2024-07-31 11:20:04,002 - INFO - SSLC EXAMINATION RESULTS
+2024-07-31 11:20:04,003 - INFO - STUDENT DETAILS:
+2024-07-31 11:20:04,003 - INFO - Student Name:Arun   
+2024-07-31 11:20:04,003 - INFO - Register Number:123001
+2024-07-31 11:20:04,003 - INFO - Date of birth:  09-09-2003
+2024-07-31 11:20:04,003 - INFO - Language 1:  64 
+2024-07-31 11:20:04,003 - INFO - Language 2:    90 
+2024-07-31 11:20:04,003 - INFO - Maths:         87 
+2024-07-31 11:20:04,003 - INFO - Science:       69 
+2024-07-31 11:20:04,003 - INFO - Social Science:90 
+2024-07-31 11:20:04,003 - INFO - Total:         400 
+2024-07-31 11:20:04,003 - INFO - Percentage:    80.0 
+2024-07-31 11:20:04,003 - INFO - Final result:  Pass 
+2024-07-31 11:20:23,760 - ERROR - Invalid input
+2024-07-31 11:20:26,564 - ERROR - Invalid input
+2024-07-31 11:20:55,790 - INFO - SSLC EXAMINATION RESULTS
+2024-07-31 11:20:55,790 - INFO - STUDENT DETAILS:
+2024-07-31 11:20:55,791 - INFO - Student Name:Priya   
+2024-07-31 11:20:55,791 - INFO - Register Number:122378
+2024-07-31 11:20:55,791 - INFO - Date of birth:  06-12-2003
+2024-07-31 11:20:55,791 - INFO - Language 1:  45 
+2024-07-31 11:20:55,791 - INFO - Language 2:    68 
+2024-07-31 11:20:55,791 - INFO - Maths:         32 
+2024-07-31 11:20:55,791 - INFO - Science:       80 
+2024-07-31 11:20:55,791 - INFO - Social Science:87 
+2024-07-31 11:20:55,791 - INFO - Total:         312 
+2024-07-31 11:20:55,791 - INFO - Percentage:    62.4 
+2024-07-31 11:20:55,795 - INFO - Final result:  Fail 

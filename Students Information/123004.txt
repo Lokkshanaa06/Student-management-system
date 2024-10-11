@@ -1,0 +1,14 @@
+
+Student details
+Student Name:        Dinesh
+Student Register no: 123004
+Date of birth:       09-09-2003
+Marks Obtained
+Language 1      :  43
+Language 2      :  78
+Maths           :  98
+Science         :  76
+Social Science  :  84
+Total           :  379
+Percentage      :  75.8
+Final Result    :  Pass

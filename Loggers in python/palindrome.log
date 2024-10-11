@@ -1,0 +1,11 @@
+2024-07-10 11:41:35,198 - INFO - The number is not palindrome
+2024-07-10 11:42:12,081 - INFO - The number is palindrome
+2024-07-10 11:43:37,762 - INFO - The 718 is not palindrome
+2024-07-10 11:44:06,629 - INFO - 92370 is not palindrome
+2024-07-10 11:44:29,215 - INFO - 9669 is palindrome
+2024-07-10 11:44:38,391 - ERROR - Exception occured invalid literal for int() with base 10: 'wdoj'
+Traceback (most recent call last):
+  File "c:\Users\sh\Desktop\Pattens cognitive\Loggers in python\logger_palindrome.py", line 28, in main
+    num=int(input("Enter the number:"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'wdoj'

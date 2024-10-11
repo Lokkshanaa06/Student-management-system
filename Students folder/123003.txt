@@ -1,0 +1,14 @@
+SSLC EXAMINATION:
+Student details:
+Student Name:    Catherine
+Register Number: 123003
+Date of Birth:   03-12-2003
+Gender:          Female
+Language 1:      67
+Language 2:      88
+Maths:           79
+Science:         74
+Social Science:  75
+Total:           383
+Percentage:      76.6
+Final Result:    Pass

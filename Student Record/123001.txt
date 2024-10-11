@@ -1,0 +1,15 @@
+SSLC EXAMINATION RESULTS
+STUDENT DETAILS:
+Student Name:    Akila
+Register Number: 123001
+Date of Birth:   09-09-2003
+
+Marks Obtained:
+Language 1:      78
+Language 2:      89
+Maths:           25
+Science:         89
+Social Science:  94
+Total:           375
+Percentage:      75.00%
+Final Result:    Fail

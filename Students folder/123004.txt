@@ -1,0 +1,14 @@
+SSLC EXAMINATION:
+Student details:
+Student Name:    Dinesh
+Register Number: 123004
+Date of Birth:   19-08-2003
+Gender:          Male
+Language 1:      34
+Language 2:      45
+Maths:           44
+Science:         42
+Social Science:  47
+Total:           212
+Percentage:      42.4
+Final Result:    Fail

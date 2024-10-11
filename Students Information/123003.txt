@@ -1,0 +1,14 @@
+
+Student details
+Student Name:        Catherine
+Student Register no: 123003
+Date of birth:       17-07-2003
+Marks Obtained
+Language 1      :  78
+Language 2      :  85
+Maths           :  37
+Science         :  52
+Social Science  :  30
+Total           :  282
+Percentage      :  56.4
+Final Result    :  Fail

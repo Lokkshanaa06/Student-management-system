@@ -1,0 +1,7 @@
+{
+"name":"Lokkshanaa",
+"age":20,
+"isstudent":"True",
+"courses":["Maths","Science","Literature"],
+"city":"Chennai"
+}

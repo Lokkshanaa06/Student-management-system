@@ -1,0 +1,26 @@
+COMPUTER:
+
+HISTORY OF COMPUTERS:
+
+Since the evolution of humans, devices have
+been used for calculations for thousands of years.
+One of the earliest and most well-known devices
+was an abacus. Then in 1822, the father of
+computers, Charles Babbage began developing
+what would be the first mechanical computer. And
+then in 1833 he actually designed an Analytical
+Engine which was a general-purpose computer. It
+contained an ALU, some basic flowchart
+principles and the concept of integrated memory.
+
+Then more than a century later in the history of
+computers, we got our first electronic computer
+for general purpose. It was the ENIAC, which
+stands for Electronic Numerical Integrator and
+Computer. The inventors of this computer were
+John W. Mauchly and J.Presper Eckert.
+
+And with times the technology developed and the
+computers got smaller and the processing got
+faster. We got our first laptop in 1981 and it was
+introduced by Adam Osborne and EPSON.

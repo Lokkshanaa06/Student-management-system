@@ -1,0 +1,14 @@
+
+Student details
+Student Name:        Girish
+Student Register no: 123006
+Date of birth:       12-09-2003
+Marks Obtained
+Language 1      :  84
+Language 2      :  87
+Maths           :  65
+Science         :  66
+Social Science  :  31
+Total           :  333
+Percentage      :  66.6
+Final Result    :  Fail

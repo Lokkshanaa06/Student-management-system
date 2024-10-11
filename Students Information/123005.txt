@@ -1,0 +1,14 @@
+
+Student details
+Student Name:        Fathima
+Student Register no: 123005
+Date of birth:       30-12-2003
+Marks Obtained
+Language 1      :  79
+Language 2      :  65
+Maths           :  54
+Science         :  43
+Social Science  :  31
+Total           :  272
+Percentage      :  54.4
+Final Result    :  Fail

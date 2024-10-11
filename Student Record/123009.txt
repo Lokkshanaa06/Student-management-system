@@ -1,0 +1,15 @@
+SSLC EXAMINATION RESULTS
+STUDENT DETAILS:
+Student Name:    Kalai
+Register Number: 123009
+Date of Birth:   06-07-2003
+
+Marks Obtained:
+Language 1:      89
+Language 2:      76
+Maths:           54
+Science:         90
+Social Science:  87
+Total:           396
+Percentage:      79.20%
+Final Result:    Pass

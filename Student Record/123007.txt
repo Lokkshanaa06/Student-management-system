@@ -1,0 +1,15 @@
+SSLC EXAMINATION RESULTS
+STUDENT DETAILS:
+Student Name:    Girish Kumar
+Register Number: 123007
+Date of Birth:   14-03-2003
+
+Marks Obtained:
+Language 1:      89
+Language 2:      83
+Maths:           84
+Science:         87
+Social Science:  93
+Total:           436
+Percentage:      87.20%
+Final Result:    Pass
